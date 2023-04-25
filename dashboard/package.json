@@ -71,7 +71,7 @@
     "rxjs": "^7.5.3",
     "swagger-ui-react": "^4.5.0",
     "typesafe-actions": "^5.1.0",
-    "yaml": "^1.10.2"
+    "yaml": "^2.2.2"
   },
   "devDependencies": {
     "@formatjs/cli": "^4.8.2",
