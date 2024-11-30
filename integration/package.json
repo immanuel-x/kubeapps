@@ -10,7 +10,7 @@
     "test": "playwright test --workers=1"
   },
   "dependencies": {
-    "axios": "^0.25.0",
+    "axios": "^1.7.8",
     "playwright": "^1.17.2",
     "wait-on": "^6.0.0"
   },
